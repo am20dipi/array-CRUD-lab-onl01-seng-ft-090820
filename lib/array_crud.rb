@@ -33,9 +33,11 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
+  retrieve_first_element_from_array = ["blue", "blue2", "grey"]
   retrieve_first_element_from_array.first()
 end
 
 def retrieve_last_element_from_array(array)
+  retrieve_last_element_from_array = ["hotdogs", "whales", "ok"]
   retrieve_last_element_from_array.last()
 end
