@@ -19,12 +19,12 @@ end
 
 def remove_element_from_end_of_array(array)
   remove_element_from_end_of_array = [1, 2, 3, 4]
-  remove_element_from_end_of_array()
-  
+  remove_element_from_end_of_array.pop()
 end
 
 def remove_element_from_start_of_array(array)
-  
+  remove_element_from_start_of_array = ["red", "orange", "green"]
+  remove_element_from_start_of_array.shift(0)
 end
 
 def retrieve_element_from_index(array, index_number)
