@@ -8,14 +8,18 @@ end
 
 
 def add_element_to_end_of_array(array, element)
-  
+  add_element_to_end_of_array = [3, 4, 5, 6]
+  add_element_to_end_of_array.push(63)
 end
 
 def add_element_to_start_of_array(array, element)
-  
+  add_element_to_start_of_array = ["star", "triangle", "circle"]
+  add_element_to_start_of_array.unshift("square")
 end
 
 def remove_element_from_end_of_array(array)
+  remove_element_from_end_of_array = [1, 2, 3, 4]
+  remove_element_from_end_of_array()
   
 end
 
