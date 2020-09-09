@@ -1,15 +1,11 @@
 def create_an_empty_array()
   create_an_empty_array = []
-
 end
 
-create_an_empty_array()
-
-def create_an_array = ["Cosmo", "Koko", "Mindy", "Cats" ];
-  
+def create_an_array() 
+  create_an_array = ["Cosmo", "Koko", "Mindy", "Cats" ];
 end
 
-create_any_array()
 
 def add_element_to_end_of_array(array, element)
   
